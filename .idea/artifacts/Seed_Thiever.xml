@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Seed_Thiever">
+    <output-path>$USER_HOME$/DreamBot/Scripts</output-path>
+    <root id="archive" name="Seed_Thiever.jar">
+      <element id="module-output" name="Seed_Thiever" />
+    </root>
+  </artifact>
+</component>
